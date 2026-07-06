@@ -1,0 +1,5 @@
+/api
+/out
+*.db
+/data/
+.env
