@@ -1,5 +1,7 @@
 # Native API : docker-compose mais en api
 
+> Projet réalisé dans le cadre de mon master développeur full-stack à My Digital School Caen
+
 api rest en go qui pilote le docker engine. un **projet** = une infra décrite (façon `docker-compose.yml`),
 un **déploiement** = son instanciation sur un **serveur** (docker engine) avec les valeurs concrètes.
 
